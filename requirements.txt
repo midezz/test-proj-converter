@@ -1,0 +1,4 @@
+Django>=3.0.6,<3.0.9
+djangorestframework>=3.11.0,<3.12
+requests>=2.23.0,<2.25.0
+flake8>=3.7.9,<3.8.0
